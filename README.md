@@ -1,4 +1,4 @@
-![Alt text](https://github.com/beansparrow/Journey/blob/master/journey.png?raw=true "Journey")
+![Alt text](https://github.com/beansparrow/Journey/blob/master/journey4.png?raw=true "Journey")
 ----------------------------------------------------------------------------------------------
 
 Start from the beginning, and witness how one python program evolves.
